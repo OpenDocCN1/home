@@ -1,0 +1,917 @@
+[
+  {
+    "repo": "https://github.com/datawhalechina/Agent-Learning-Hub",
+    "name": "Agent Learning Hub",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ML-FTTI",
+    "name": "机器学习 - 从原理到实现",
+    "link": "https://datawhalechina.github.io/ML-FTTI/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/Path2AGI",
+    "name": "从基础学科到通用人工智能：29 学科知识地图",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/accessible-workflow",
+    "name": "accessible-workflow",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ace-claw",
+    "name": "OpenClaw 教程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/agent-skills-with-anthropic",
+    "name": "agent-skills-with-anthropic",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/agent-tutorial",
+    "name": "agent-tutorial",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/agentic-ai",
+    "name": "Agentic-ai",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/agentic-rl-lab",
+    "name": "Agentic-RL Lab",
+    "link": "https://datawhalechina.github.io/agentic-rl-lab/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ai-edu-for-kids",
+    "name": "面向中小学开源的AI通识课程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ai-learning-roadmap",
+    "name": "Datawhale AI Learning Roadmap",
+    "link": "https://datawhalechina.github.io/ai-learning-roadmap/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ai-programming",
+    "name": "AI Programming",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ai-prompting-for-everyone",
+    "name": "ai-prompting-for-everyone",
+    "link": "https://datawhalechina.github.io/ai-prompting-for-everyone/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ai-skills-for-everyone",
+    "name": "AI Skills for Everyone：人人都能用的开源 AI 技能库",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ai-wiki",
+    "name": "AI-Wiki：AI开发者全景式工具与资源导航",
+    "link": "https://datawhalechina.github.io/ai-wiki/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/aima-notes",
+    "name": "aima-notes",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/algo-vis",
+    "name": "交互式算法与 AI 可视化课程",
+    "link": "https://datawhalechina.github.io/algo-vis/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/all-in-rag",
+    "name": "All-in-RAG 大模型应用开发实战一：RAG技术全栈指南",
+    "link": "https://datawhalechina.github.io/all-in-rag/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/awesome-compression",
+    "name": "Awesome Compression",
+    "link": "https://datawhalechina.github.io/awesome-compression/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/base-llm",
+    "name": "Base LLM 从 NLP 到 LLM 的算法全栈教程",
+    "link": "https://datawhalechina.github.io/base-llm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/casual-inference",
+    "name": "casual-inference: 因果推断：理论与Python实现",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/code-your-own-llm",
+    "name": "Code Your Own LLM",
+    "link": "https://datawhalechina.github.io/code-your-own-llm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/competition-baseline",
+    "name": "数据竞赛Baseline & Topline分享",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/coze-ai-assistant",
+    "name": "coze-ai-assistant",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/cpp-llm-engine",
+    "name": "从零构建 C++ LLM 推理引擎",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/cs336-tutorial",
+    "name": "cs336-tutorial",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/cstart",
+    "name": "CStart",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/d2l-ai-solutions-manual",
+    "name": "动手学深度学习习题解答",
+    "link": "https://datawhalechina.github.io/d2l-ai-solutions-manual/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/daily-interview",
+    "name": "Daily Interview - 面试必看",
+    "link": "https://datawhalechina.github.io/daily-interview/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/deep-learning-notes",
+    "name": "Deep Learning Notes",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/deepagents-in-action",
+    "name": "Deep Agents 实战",
+    "link": "https://datawhalechina.github.io/deepagents-in-action/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/design-and-analysis-of-algorithm",
+    "name": "design-and-analysis-of-algorithm",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/design-with-ai",
+    "name": "Design with AI",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/distil-rl-introduction",
+    "name": "DistilRL: A Condensed Introduction",
+    "link": "https://datawhalechina.github.io/distil-rl-introduction/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/dive-into-bishop-dl",
+    "name": "Bishop 《深度学习：基础与概念》讲解",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/dive-into-cv-pytorch",
+    "name": "Dive-into-CV-PyTorch",
+    "link": "https://datawhalechina.github.io/dive-into-cv-pytorch/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/dive-into-embodied-ai",
+    "name": "Dive into Embodied AI",
+    "link": "https://datawhalechina.github.io/dive-into-embodied-ai/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/diy-llm",
+    "name": "Diy-LLM",
+    "link": "https://datawhalechina.github.io/diy-llm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/docker-notes",
+    "name": "Docker 教程：从入门到掌握",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-data-x-ai",
+    "name": "Easy Data x AI",
+    "link": "https://datawhalechina.github.io/easy-data-x-ai/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-dip",
+    "name": "Easy Learn Digital Image Processing",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-dsp",
+    "name": "Easy Learn Digital Signal Processing",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-grokking-deep-learning",
+    "name": "Easy-Grokking-Deep-Learning",
+    "link": "https://datawhalechina.github.io/easy-grokking-deep-learning/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-langent",
+    "name": "Easy-langent",
+    "link": "https://datawhalechina.github.io/easy-langent/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-linux",
+    "name": "Easy Learn Linux",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-nlp",
+    "name": "自然语言处理骨灰级入门",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-pocket",
+    "name": "Easy-Pocket : 从零掌握 PocketFlow",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-rl",
+    "name": "蘑菇书EasyRL",
+    "link": "https://datawhalechina.github.io/easy-rl/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-robot",
+    "name": "easy-robot",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-ros2arm",
+    "name": "easy-ros2Arm",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-vecdb",
+    "name": "Easy-vecDB",
+    "link": "https://datawhalechina.github.io/easy-vecdb/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/easy-vibe",
+    "name": "Easy-Vibe：Vibe Coding 产品实战教程",
+    "link": "https://datawhalechina.github.io/easy-vibe/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ensemble-learning",
+    "name": "机器学习集成学习与模型融合(基于python)",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/every-embodied",
+    "name": "Every Embodied",
+    "link": "https://datawhalechina.github.io/every-embodied/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/fantastic-matplotlib",
+    "name": "Fantastic-Matplotlib",
+    "link": "https://datawhalechina.github.io/fantastic-matplotlib/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/faster-git",
+    "name": "Faster-Git",
+    "link": "https://datawhalechina.github.io/faster-git/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/free-excel",
+    "name": "Free-Excel",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/fun-ir",
+    "name": "信息检索",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/fun-marl",
+    "name": "fun-marl",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/fun-rec",
+    "name": "深度推荐算法实践（小麦书）",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/fun-transformer",
+    "name": "fun-transformer",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/get-job",
+    "name": "get-job",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/gguf-quant-internals",
+    "name": "GGUF 量化内幕",
+    "link": "https://datawhalechina.github.io/gguf-quant-internals/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/grape-book",
+    "name": "图深度学习（葡萄书）",
+    "link": "https://datawhalechina.github.io/grape-book/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hack-rnns",
+    "name": "Easy-NLP",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hand-bert",
+    "name": "Hand-Bert",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hand-on-openclaw",
+    "name": "hand-on-openclaw",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hands-dirty-nlp",
+    "name": "hands-dirty-nlp",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hands-on-data-analysis",
+    "name": "动手学数据分析（Hands-on data analysis）",
+    "link": "https://aiplusx.momodel.cn/classroom/class/664b498628cf753a70eb516e?activeKey=intro"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hands-on-llama",
+    "name": "hands-on-llama",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/handy-multi-agent",
+    "name": "Handy Multi-Agent 教程",
+    "link": "https://datawhalechina.github.io/handy-multi-agent/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/handy-n8n",
+    "name": "handy-n8n",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/handy-ollama",
+    "name": "handy-ollama",
+    "link": "https://datawhalechina.github.io/handy-ollama/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/happy-figure",
+    "name": "Happy Figure: AI 科研绘图实战教程",
+    "link": "https://datawhalechina.github.io/happy-figure/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/happy-llm",
+    "name": "Happy-LLM",
+    "link": "https://datawhalechina.github.io/happy-llm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-agents",
+    "name": "Hello-Agents",
+    "link": "https://datawhalechina.github.io/hello-agents/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-ai",
+    "name": "AI新手村",
+    "link": "https://datawhalechina.github.io/hello-ai/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-claw",
+    "name": "哈喽！龙虾",
+    "link": "https://datawhalechina.github.io/hello-claw/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-generic-agent",
+    "name": "Hello Generic Agent",
+    "link": "https://datawhalechina.github.io/hello-generic-agent/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-gpu",
+    "name": "Notebook 动手学习：打开就能跑的 GPU 实验",
+    "link": "https://datawhalechina.github.io/hello-gpu/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-hexo-blog",
+    "name": "从零开始实现基于Hexo的个人技术博客搭建撰写",
+    "link": "https://weyumm.github.io/hello-hexo-blog"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-net",
+    "name": "hello-net",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-robot",
+    "name": "Hello-Robot",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hello-rocm",
+    "name": "hello-rocm Skill：把本项目装进你的 AI 助手",
+    "link": "https://datawhalechina.github.io/hello-rocm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hml-solutions",
+    "name": "《动手学机器学习》习题解答",
+    "link": "https://datawhalechina.github.io/hml-solutions/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/huawei-od-python",
+    "name": "华为OD算法题解",
+    "link": "https://datawhalechina.github.io/huawei-od-python/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hugging-audio",
+    "name": "hugging-audio",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hugging-llm",
+    "name": "蝴蝶书ButterflyBook",
+    "link": "https://datawhalechina.github.io/hugging-llm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hugging-multi-agent",
+    "name": "Hugging Multi-Agent",
+    "link": "https://deepwisdom.feishu.cn/wiki/MLILw0EdRiyiYRkJLgOcskyAnUh"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hugging-rl",
+    "name": "Hugging Robot Learning",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/hugging-vis",
+    "name": "HuggingVis",
+    "link": "https://datawhalechina.github.io/hugging-vis/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/intro-mathmodel",
+    "name": "数学建模导论",
+    "link": "https://datawhalechina.github.io/intro-mathmodel/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/jev-cookbook",
+    "name": "Jev Cookbook",
+    "link": "https://datawhalechina.github.io/jev-cookbook/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/joyful-pandas",
+    "name": "Joyful-Pandas",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/joyrl-book",
+    "name": "JoyRL Book",
+    "link": "https://datawhalechina.github.io/joyrl-book/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/juicy-bigdata",
+    "name": "妙趣横生大数据 Juicy Big Data",
+    "link": "https://datawhalechina.github.io/juicy-bigdata/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/key-book",
+    "name": "钥匙书 Key-book",
+    "link": "https://datawhalechina.github.io/key-book/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/learn-auto-research",
+    "name": "Learn AutoResearch",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/learn-nlp-with-transformers",
+    "name": "基于transformers的自然语言处理(NLP)入门",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/learn-python-the-smart-way",
+    "name": "聪明办法学Python",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/learn-python-the-smart-way-v2",
+    "name": "聪明办法学 Python 第二版",
+    "link": "https://datawhalechina.github.io/learn-python-the-smart-way-v2/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/learn-world-model",
+    "name": "Learn World Models",
+    "link": "https://datawhalechina.github.io/learn-world-model/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/learning-terrain",
+    "name": "学习的地形",
+    "link": "https://datawhalechina.github.io/learning-terrain/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/leedl-tutorial",
+    "name": "李宏毅深度学习教程LeeDL-Tutorial（苹果书）",
+    "link": "https://datawhalechina.github.io/leedl-tutorial/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/leegenai-tutorial",
+    "name": "李宏毅生成式人工智能教程LeeGenAI-Tutorial",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/leeml-notes",
+    "name": "leeml-notes",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/leetcode-notes",
+    "name": "LeetCode 算法笔记（LeetCode-Notes）",
+    "link": "https://datawhalechina.github.io/leetcode-notes/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-algo-leetcode",
+    "name": "llm-algo-leetcode 大模型算法与系统教程",
+    "link": "https://datawhalechina.github.io/llm-algo-leetcode/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-cookbook",
+    "name": "面向开发者的大模型手册 - LLM Cookbook",
+    "link": "https://datawhalechina.github.io/llm-cookbook/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-deploy",
+    "name": "LLM-Deploy",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-preview",
+    "name": "理工科-大模型入门实训课程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-protocols-guide",
+    "name": "大模型协议入门教程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-research",
+    "name": "LLM Research",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llm-universe",
+    "name": "LLM Universe 动手学大模型应用开发",
+    "link": "https://datawhalechina.github.io/llm-universe/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llmbook",
+    "name": "大语言模型 LLMBook",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/llms-from-scratch-cn",
+    "name": "动手学LLM",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/machine-learning-toy-code",
+    "name": "西瓜书代码实战",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/mala-claw",
+    "name": "MalaClaw",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/math-for-ai",
+    "name": "人工智能的数学基础",
+    "link": "https://datawhalechina.github.io/math-for-ai/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/mcp-lite-dev",
+    "name": "《MCP极简开发》学习笔记",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/med-imaging-primer",
+    "name": "医学影像处理开源教程",
+    "link": "https://datawhalechina.github.io/med-imaging-primer/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/mini-workbuddy",
+    "name": "mini-workbuddy",
+    "link": "https://datawhalechina.github.io/mini-workbuddy/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/ml-for-security",
+    "name": "网络空间安全中的机器学习方法",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/musiclm-universe",
+    "name": "musiclm-universe",
+    "link": "https://datawhalechina.github.io/musiclm-universe/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/office-automation",
+    "name": "office-automation",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/open-ai-general-course",
+    "name": "OPEN AI通识课",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/openclaw-tutorial",
+    "name": "OpenClaw 学习教程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/openmmlab-tutorial",
+    "name": "OpenMMLab 系列新手入门教程（从 MMDetection 库切入）",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/opt-tutorial",
+    "name": "优化求解器入门手册",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/paper-chart-tutorial",
+    "name": "共读《科研论文配图绘制指南--基于Python》",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/post-training-of-llms",
+    "name": "Post-Training of LLMs",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/powerful-numpy",
+    "name": "巨硬的NumPy",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/pumpkin-book",
+    "name": "南瓜书（pumpkin-book）",
+    "link": "https://datawhalechina.github.io/pumpkin-book/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/quant-for-beginners",
+    "name": "Quant For Beginners",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/reasoning-kingdom",
+    "name": "推理王国 · 三部曲",
+    "link": "https://datawhalechina.github.io/reasoning-kingdom/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/robo-genesis-101",
+    "name": "RoboGenesis 101",
+    "link": "https://datawhalechina.github.io/robo-genesis-101/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/scientific-computing",
+    "name": "Python科学计算",
+    "link": "https://datawhalechina.github.io/scientific-computing/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/self-dify",
+    "name": "self-dify 2.0",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/self-harness",
+    "name": "self-harness - 实战指南",
+    "link": "https://datawhalechina.github.io/self-harness/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/self-llm",
+    "name": "开源大模型食用指南",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/signal-to-intelligence",
+    "name": "从信号到智能",
+    "link": "https://datawhalechina.github.io/signal-to-intelligence/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/simple-ml-code",
+    "name": "机器学习实战超详解析入门教程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/smart-dev",
+    "name": "速通AI编程开发：基于Roo Code+DeepSeek的编程教程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/smart-prompt",
+    "name": "“听话的”提示词构建教程",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/smoothly-vslam",
+    "name": "smoothly-vslam",
+    "link": "https://www.yuque.com/u1507140/vslam-hmh"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/so-large-lm",
+    "name": "大模型基础 (So-Large-LM)",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/sora-tutorial",
+    "name": "Sora 原理与技术实战",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/start-mllm",
+    "name": "Start-MLLM",
+    "link": "https://datawhalechina.github.io/start-mllm/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/statistical-learning-method-solutions-manual",
+    "name": "机器学习方法习题解答",
+    "link": "https://datawhalechina.github.io/statistical-learning-method-solutions-manual/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/sweetalk-data-structure",
+    "name": "sweetalk-data-structure",
+    "link": "https://datawhalechina.github.io/sweetalk-data-structure/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/sweetalk-design-pattern",
+    "name": "Sweetalk Design Pattern",
+    "link": "https://datawhalechina.github.io/sweetalk-design-pattern/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/sweettalk-django",
+    "name": "Sweettalk-Django 4.2",
+    "link": "https://likechen.gitbook.io/sweettalk-django4.2"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning",
+    "name": "吃瓜教程——西瓜书+南瓜书",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning-cv",
+    "name": "Datawhale组队学习：计算机视觉方向资料",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning-data-mining",
+    "name": "Datawhale组队学习：数据挖掘/机器学习方向资料",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning-nlp",
+    "name": "Datawhale组队学习：自然语言处理方向资料",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning-program",
+    "name": "Datawhale组队学习：编程、数据结构与算法方向资料",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning-rl",
+    "name": "Datawhale组队学习：强化学习方向资料",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/team-learning-sql",
+    "name": "SQL基础教程学习笔记（team-learning-sql）",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/thorough-pytorch",
+    "name": "深入浅出PyTorch",
+    "link": "https://datawhalechina.github.io/thorough-pytorch/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/time-series-learning",
+    "name": "time-series-learning",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/tiny-universe",
+    "name": "大模型白盒子构建指南",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/udl-tutorial",
+    "name": "手推《Understanding Deep Learning》 udl-tutorial",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/undingable-optimization",
+    "name": "datawhale-operational-research",
+    "link": "https://datawhalechina.github.io/undingable-optimization/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/unlock-deepseek",
+    "name": "Unlock DeepSeek",
+    "link": "https://datawhalechina.github.io/unlock-deepseek/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/unlock-hf",
+    "name": "Unlock-HuggingFace",
+    "link": "https://moyanxinxu.github.io/unlock-hf"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/unusual-deep-learning",
+    "name": "水很深的深度学习",
+    "link": "https://datawhalechina.github.io/unusual-deep-learning/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/vc-lab",
+    "name": "设计思维创造营 · 第一期",
+    "link": "https://Peter-303.github.io/VC-Lab"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/vced",
+    "name": "VCED: Video Clip Extraction by description",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/vibe-vibe",
+    "name": "Vibe Vibe",
+    "link": "https://www.vibevibe.cn"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/viz-mastery",
+    "name": "viz-mastery",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/whale-bot",
+    "name": "WhaleBot 智能鲸鱼小车 (ESP32-S3 AI Robot)",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/whale-paper",
+    "name": "Whale-Paper项目",
+    "link": "https://datawhalechina.github.io/whale-paper/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/whale-quant",
+    "name": "Datawhale量化开源课程",
+    "link": "https://datawhalechina.github.io/whale-quant/"
+  },
+  {
+    "repo": "https://github.com/datawhalechina/whale-web",
+    "name": "BlueWhale",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/what-is-vs",
+    "name": "向量检索与 RAG 实践：技术、实现与应用",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/wonderful-sql",
+    "name": "wonderful-sql",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/wow-agent",
+    "name": "wow-agent",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/wow-fullstack",
+    "name": "wow-fullstack",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/wow-plotly",
+    "name": "Wow-Plotly",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/wow-rag",
+    "name": "wow-rag",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/yolo-master",
+    "name": "YOLO Master",
+    "link": ""
+  },
+  {
+    "repo": "https://github.com/datawhalechina/zero-to-sglang",
+    "name": "zero-to-sglang",
+    "link": "https://datawhalechina.github.io/zero-to-sglang/"
+  }
+]
